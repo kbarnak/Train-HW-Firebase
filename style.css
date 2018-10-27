@@ -1,7 +1,13 @@
+body {
+    background-image: url(images/niyasck-1540615989859-2633.jpg)
+}
+
 .container {
     background-color: lightskyblue;
+    width: 70%;
+    height: auto;
 }
 
 .jumbotron {
-    background-color: grey;
+    background-color: gray;
 }
